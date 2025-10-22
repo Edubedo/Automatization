@@ -1,4 +1,4 @@
-#  Herramientas del entorno de IA aduanal
+#  Herramientas del entorno de automatización
 
 ##  Base de desarrollo
 1. **Python 3.12** 
